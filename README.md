@@ -16,7 +16,7 @@ Exercise solutions and revision notes from a Functional Programming course in El
 | [A](exercises/A/src) | Pure functions, immutability, Elm syntax and types | `Caesar`, `Clock`, `Pythagoras` |
 | [B](exercises/B/src) | Recursion, lists, `case`, `Maybe`, `map`/`filter`, `\|>` | `Caesar2`, `Pythagoras2`, `Extra` |
 | [C](exercises/C/src) | Lambdas, `foldl`/`foldr`, point-free style, custom types | `Caesar3`, `CreditCard`, `Investments`, `Layouts`, `Shapes` |
-| [D](exercises/D/src) | Expression trees | `Expressions` |
+| [D](exercises/D/src) | Expression trees, Huffman coding, generic binary trees | `Expressions`, `HuffmanTree`, `BinaryTree` |
 
 ## Running
 
